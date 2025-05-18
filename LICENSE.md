@@ -1,6 +1,6 @@
 # License – All Rights Reserved
 
-This script, **Dendrite.cc**, is the intellectual property of [YourName or TeamName].
+This script, **Dendrite.cc**, is the intellectual property of **Dendrite.cc Team**.
 
 All rights are reserved. The following actions are **strictly prohibited without explicit written permission**: 
 - Modifying, editing, or creating derivative works  
